@@ -1,0 +1,6 @@
+{"user_id": 1, "name": "Dennis", "calories": 0, "protein": 0, "carbohydrate": 0, "fat": 0}
+{"user_id": 2, "name": "John", "calories": 0, "protein": 0, "carbohydrate": 0, "fat": 0}
+{"user_id": 3, "name": "Hunter", "calories": 0, "protein": 0, "carbohydrate": 0, "fat": 0}
+{"user_id": 4, "name": "Melinda", "calories": 0, "protein": 0, "carbohydrate": 0, "fat": 0}
+{"user_id": 5, "name": "Natiely", "calories": 0, "protein": 0, "carbohydrate": 0, "fat": 0}
+{"user_id": 6, "name": "Ashley", "calories": 0, "protein": 0, "carbohydrate": 0, "fat": 0}

@@ -1,0 +1,6 @@
+{"user_id": 1, "name": "Dennis", "calories_goal": 2500, "protein_goal": 50, "carbohydrate_goal": 275, "fat_goal": 55}
+{"user_id": 2, "name": "John", "calories_goal": 2700, "protein_goal": 60, "carbohydrate_goal": 225, "fat_goal": 60}
+{"user_id": 3, "name": "Hunter", "calories_goal": 3000, "protein_goal": 120, "carbohydrate_goal": 240, "fat_goal": 70}
+{"user_id": 4, "name": "Melinda", "calories_goal": 1900, "protein_goal": 46, "carbohydrate_goal": 225, "fat_goal": 75}
+{"user_id": 5, "name": "Natiely", "calories_goal": 1800, "protein_goal": 50, "carbohydrate_goal": 230, "fat_goal": 55}
+{"user_id": 6, "name": "Ashley", "calories_goal": 2000, "protein_goal": 48, "carbohydrate_goal": 270, "fat_goal": 60}

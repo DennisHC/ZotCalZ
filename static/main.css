@@ -1,0 +1,80 @@
+/* Importing Font */
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Coiny&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap');
+
+/* Titles of the 4 Charts */
+.section-title{
+    font-family: 'Coiny', cursive;
+    text-align: center;
+}
+
+/* Top Container */
+.top-container{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    justify-content: space-between;
+    width: max-content;
+}
+
+.box-calorie-chart{
+    flex: 1;
+}
+
+.box-macro-chart{
+    flex: 1;
+}
+
+/* Mid Container that Displays the ZotCalZ Title */
+.title-logo{
+    text-align: center; 
+    font-family: 'Do Hyeon', sans-serif; 
+    color: white; 
+    background-image: linear-gradient( 109.6deg,  rgba(5,84,94,1) 16%, #bbb 91.1% );;
+    padding: 10px;
+    border-radius: 50px;
+    margin-top: 7px;
+}
+
+/* Bottom Container holding Chart 3 (Food Items Consumed List) and Chart 4 (Calorie and Macronutrient Goals) */
+.bottom-container{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    justify-content: space-between;
+    width: max-content;
+}
+
+.box-food-items{
+    flex: 1;
+    min-width: 800;
+    min-height: 500;
+}
+
+.food-list{
+    padding: 5px;
+}
+
+.food-list-title{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.food-item-text{
+    font-size: 20px;
+    font-family: 'Nerko One', cursive;
+    text-align: center;
+}
+
+
+/* Calorie and Macronutrient Goals Chart */
+.box-goals{
+    flex: 1;
+}
+
+.box-goal-text{
+    font-family: 'Nerko One', cursive;
+}
+/*****************************************/
